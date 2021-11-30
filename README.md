@@ -1,4 +1,5 @@
-# HOW TO INSTALL SUBLIME TEXT 3
+# HOW TO INSTALL SUBLIME TEXT 
+## [SUBLIME](https://www.sublimetext.com)
  ## IN WINDOWS 
  1. For [Windows](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe)
  2. For [Windows 64 bit](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe)
@@ -32,7 +33,14 @@
 
 
 #### NEW SUBLIME MERGE (GIT CLIENT)
+## [SUBLIME MERGE](https://www.sublimemerge.com)
+
+![image](https://user-images.githubusercontent.com/67573209/143979817-1bad7567-8064-4437-8927-27dd219b06c8.png)
+
   1. [WINDOWS](https://www.sublimemerge.com/download_thanks?target=win-x64)
+
+![image](https://user-images.githubusercontent.com/67573209/143979857-f54b13c8-b86c-426f-bdb2-b4491844ca8d.png)
+
   ##### Linux
   #### apt
 The apt repository contains packages for both x86-64 and arm64.
